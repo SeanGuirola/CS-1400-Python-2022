@@ -1,0 +1,29 @@
+Python 3.9.6 (tags/v3.9.6:db3ff76, Jun 28 2021, 15:26:21) [MSC v.1929 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+========== RESTART: C:/Users/seang/Desktop/CS 1400/Book Club Points.py =========
+Enter the number of books purchased this month: -1
+enter a non negative number
+Enter the number of books purchased this month: 0
+you have 0 points
+>>> 
+========== RESTART: C:/Users/seang/Desktop/CS 1400/Book Club Points.py =========
+Enter the number of books purchased this month: 1
+you have 5 points
+>>> 
+========== RESTART: C:/Users/seang/Desktop/CS 1400/Book Club Points.py =========
+Enter the number of books purchased this month: 2
+you have 15 points
+>>> 
+========== RESTART: C:/Users/seang/Desktop/CS 1400/Book Club Points.py =========
+Enter the number of books purchased this month: 3
+you have 30 points
+>>> 
+========== RESTART: C:/Users/seang/Desktop/CS 1400/Book Club Points.py =========
+Enter the number of books purchased this month: 4
+you have 60 points
+>>> 
+========== RESTART: C:/Users/seang/Desktop/CS 1400/Book Club Points.py =========
+Enter the number of books purchased this month: 10000
+you have 60 points
+>>> 
