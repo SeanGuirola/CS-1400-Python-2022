@@ -1,0 +1,23 @@
+Python 3.9.6 (tags/v3.9.6:db3ff76, Jun 28 2021, 15:26:21) [MSC v.1929 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+=========== RESTART: C:/Users/seang/Desktop/CS 1400/monthly budget.py ==========
+enter your monthly budget: 1
+Enter your next monthly expense (enter 0 to stop adding expenses):1
+Enter your next monthly expense (enter 0 to stop adding expenses):0
+your budget of  1.0 is equal to your total monthly expenses of  1.0
+>>> 
+=========== RESTART: C:/Users/seang/Desktop/CS 1400/monthly budget.py ==========
+enter your monthly budget: 10
+Enter your next monthly expense (enter 0 to stop adding expenses):3
+Enter your next monthly expense (enter 0 to stop adding expenses):4
+Enter your next monthly expense (enter 0 to stop adding expenses):0
+congrats your monthly budget of  10.0 is greater than your total monthly expenses of  7.0 by $ 3.0
+>>> 
+=========== RESTART: C:/Users/seang/Desktop/CS 1400/monthly budget.py ==========
+enter your monthly budget: 1234
+Enter your next monthly expense (enter 0 to stop adding expenses):10000
+Enter your next monthly expense (enter 0 to stop adding expenses):1253
+Enter your next monthly expense (enter 0 to stop adding expenses):0
+better luck next month :( your total monthly expenses of  11253.0 is more than you budget of  1234.0 by $ -10019.0
+>>> 
