@@ -1,0 +1,48 @@
+Python 3.9.6 (tags/v3.9.6:db3ff76, Jun 28 2021, 15:26:21) [MSC v.1929 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+====== RESTART: C:/Users/seang/Desktop/CS 1400/Roman Numeral Converter.py ======
+Enter the number you want converted: 1000
+Please confirm that 1000 is the number you want converted. (answer y/n)y
+M
+>>> 
+====== RESTART: C:/Users/seang/Desktop/CS 1400/Roman Numeral Converter.py ======
+Enter the number you want converted: 500
+Please confirm that 500 is the number you want converted. (answer y/n)y
+D
+>>> 
+====== RESTART: C:/Users/seang/Desktop/CS 1400/Roman Numeral Converter.py ======
+Enter the number you want converted: 1698
+Please confirm that 1698 is the number you want converted. (answer y/n)y
+M D C L X X X X V I I I
+>>> 
+====== RESTART: C:/Users/seang/Desktop/CS 1400/Roman Numeral Converter.py ======
+Enter the number you want converted: 0
+Please confirm that 0 is the number you want converted. (answer y/n)y
+number is zero
+>>> 
+====== RESTART: C:/Users/seang/Desktop/CS 1400/Roman Numeral Converter.py ======
+Enter the number you want converted: 100
+Please confirm that 100 is the number you want converted. (answer y/n)y
+C
+>>> 
+====== RESTART: C:/Users/seang/Desktop/CS 1400/Roman Numeral Converter.py ======
+Enter the number you want converted: 50
+Please confirm that 50 is the number you want converted. (answer y/n)y
+L
+>>> 
+====== RESTART: C:/Users/seang/Desktop/CS 1400/Roman Numeral Converter.py ======
+Enter the number you want converted: 10
+Please confirm that 10 is the number you want converted. (answer y/n)y
+X
+>>> 
+====== RESTART: C:/Users/seang/Desktop/CS 1400/Roman Numeral Converter.py ======
+Enter the number you want converted: 5
+Please confirm that 5 is the number you want converted. (answer y/n)y
+V
+>>> 
+====== RESTART: C:/Users/seang/Desktop/CS 1400/Roman Numeral Converter.py ======
+Enter the number you want converted: 1
+Please confirm that 1 is the number you want converted. (answer y/n)y
+I
+>>> 
